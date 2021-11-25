@@ -44,7 +44,7 @@ Hi there. Full Credits for BlockTheSpot goes to mrpond. Original link: https://g
 
 
 
-Features
+                                                                        Features
 
 
 Blocks all banner/video/audio ads within the app
